@@ -1,0 +1,16 @@
+E:\Proyectos\Algoritmos Propios\RotateMatrix\bin\Debug\net5.0\RotateMatrix.exe
+E:\Proyectos\Algoritmos Propios\RotateMatrix\bin\Debug\net5.0\RotateMatrix.deps.json
+E:\Proyectos\Algoritmos Propios\RotateMatrix\bin\Debug\net5.0\RotateMatrix.runtimeconfig.json
+E:\Proyectos\Algoritmos Propios\RotateMatrix\bin\Debug\net5.0\RotateMatrix.runtimeconfig.dev.json
+E:\Proyectos\Algoritmos Propios\RotateMatrix\bin\Debug\net5.0\RotateMatrix.dll
+E:\Proyectos\Algoritmos Propios\RotateMatrix\bin\Debug\net5.0\ref\RotateMatrix.dll
+E:\Proyectos\Algoritmos Propios\RotateMatrix\bin\Debug\net5.0\RotateMatrix.pdb
+E:\Proyectos\Algoritmos Propios\RotateMatrix\obj\Debug\net5.0\RotateMatrix.csprojAssemblyReference.cache
+E:\Proyectos\Algoritmos Propios\RotateMatrix\obj\Debug\net5.0\RotateMatrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\Algoritmos Propios\RotateMatrix\obj\Debug\net5.0\RotateMatrix.AssemblyInfoInputs.cache
+E:\Proyectos\Algoritmos Propios\RotateMatrix\obj\Debug\net5.0\RotateMatrix.AssemblyInfo.cs
+E:\Proyectos\Algoritmos Propios\RotateMatrix\obj\Debug\net5.0\RotateMatrix.csproj.CoreCompileInputs.cache
+E:\Proyectos\Algoritmos Propios\RotateMatrix\obj\Debug\net5.0\RotateMatrix.dll
+E:\Proyectos\Algoritmos Propios\RotateMatrix\obj\Debug\net5.0\ref\RotateMatrix.dll
+E:\Proyectos\Algoritmos Propios\RotateMatrix\obj\Debug\net5.0\RotateMatrix.pdb
+E:\Proyectos\Algoritmos Propios\RotateMatrix\obj\Debug\net5.0\RotateMatrix.genruntimeconfig.cache
