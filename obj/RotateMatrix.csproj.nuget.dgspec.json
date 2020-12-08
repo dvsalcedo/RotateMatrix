@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Proyectos\\Algoritmos Propios\\RotateMatrix\\RotateMatrix.csproj": {}
+    "e:\\Proyectos\\Algoritmos Propios\\RotateMatrix\\RotateMatrix.csproj": {}
   },
   "projects": {
-    "E:\\Proyectos\\Algoritmos Propios\\RotateMatrix\\RotateMatrix.csproj": {
+    "e:\\Proyectos\\Algoritmos Propios\\RotateMatrix\\RotateMatrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Proyectos\\Algoritmos Propios\\RotateMatrix\\RotateMatrix.csproj",
+        "projectUniqueName": "e:\\Proyectos\\Algoritmos Propios\\RotateMatrix\\RotateMatrix.csproj",
         "projectName": "RotateMatrix",
-        "projectPath": "E:\\Proyectos\\Algoritmos Propios\\RotateMatrix\\RotateMatrix.csproj",
+        "projectPath": "e:\\Proyectos\\Algoritmos Propios\\RotateMatrix\\RotateMatrix.csproj",
         "packagesPath": "C:\\Users\\ds\\.nuget\\packages\\",
-        "outputPath": "E:\\Proyectos\\Algoritmos Propios\\RotateMatrix\\obj\\",
+        "outputPath": "e:\\Proyectos\\Algoritmos Propios\\RotateMatrix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ds\\AppData\\Roaming\\NuGet\\NuGet.Config",
